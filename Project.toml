@@ -1,0 +1,13 @@
+name = "FastLevenshtein"
+uuid = "f79185a3-a88d-4013-8848-f9f041a6cb9a"
+authors = ["Matt Kearns mattkearns@protonmail.com"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
