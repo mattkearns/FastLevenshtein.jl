@@ -2,9 +2,9 @@
 
 [[BenchmarkTools]]
 deps = ["JSON", "Logging", "Printf", "Statistics", "UUIDs"]
-git-tree-sha1 = "9e62e66db34540a0c919d72172cc2f642ac71260"
+git-tree-sha1 = "8b8279aa9b15b4ee2d0e06bc5208f486a8ad65cc"
 uuid = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
-version = "0.5.0"
+version = "0.6.0"
 
 [[Dates]]
 deps = ["Printf"]
@@ -36,9 +36,9 @@ uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 
 [[Parsers]]
 deps = ["Dates"]
-git-tree-sha1 = "50c9a9ed8c714945e01cd53a21007ed3865ed714"
+git-tree-sha1 = "223a825cccef2228f3fdbf2ecc7ca93363059073"
 uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
-version = "1.0.15"
+version = "1.0.16"
 
 [[Printf]]
 deps = ["Unicode"]
